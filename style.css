@@ -1,0 +1,25 @@
+table tr,th,td {
+    border: 1px solid black;
+border-collapse: collapse;
+}
+h2{
+    color: blue;
+}
+h4 {
+    color: brown;
+}
+b{
+    color: blueviolet;
+}
+img{
+    width: 100px;
+}
+th{
+    background-color: #f2f2f2;
+}
+h4,button{
+    border-color: green;
+}
+ol,li{
+    color: red;background-color: yellow;
+}
